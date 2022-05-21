@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 pushh alo alo
+=======
+tao deo thich push
+>>>>>>> 6b39405372dcb123be88b0c490144b285091339d
